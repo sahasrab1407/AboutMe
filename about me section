@@ -1,0 +1,73 @@
+# 👋 Hii, I'm B Sahasra!
+
+I'm a second-year B.Tech student in **Computer Science (Data Science)** who loves building software products and learning by shipping. I'm especially interested in **product-based companies and software development**, and I enjoy exploring **hardware** on the side. 🚀
+
+🌐 **Portfolio:** [portfolio-uo5n-mu.vercel.app](https://portfolio-uo5n-mu.vercel.app/)
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering (Data Science)**
+ADYPU-NIAT Pune | 2nd year | Expected graduation: 2029
+📊 CGPA: 9.27 / 10
+
+## 💻 Technical Skills
+
+| Area | Skills |
+|------|--------|
+| 🗣️ Languages | C++, Python |
+| 🧠 Core CS | Data Structures & Algorithms, OOP, Operating Systems |
+| 🌐 Web & Databases | Node.js, Express.js, SQL, MongoDB (basics) |
+| 🛠️ Tools | Git, GitHub, VS Code |
+| 🔌 Hardware | ESP32, RFID (MFRC522), OLED, buzzer circuits |
+
+## 🚀 Projects
+
+### 🚆 RailGuard AI
+AI-powered predictive maintenance platform for railways. It turns inspection and weather data into risk scores, work orders and crew assignments. Built full-stack in a 6-hour hackathon with a team of 3.
+**Tech:** React, Node.js/Express, Supabase, Gemini API, Vercel, Render
+
+### 🌿 AquaAyur
+AI-powered wellness platform combining a wearable band, AI food recognition and Ayurvedic principles for personalised nutrition and lifestyle advice. Team of 5; I led the **presentation and pitch**, including pitching to the co-founder of Mivi at Makers Conclave 2026.
+**Tech:** ESP32, BLE, Zustand, SQLite, Supabase, Groq AI
+
+### 📚 Student Productivity Tracker
+A C++ application to record daily tasks and monitor progress, organised into reusable components.
+**Tech:** C++, Git
+
+### 🔌 RFID Access & Attendance System (workshop build)
+Built an ESP32 system that reads RFID tags, shows results on an OLED, grants or denies access with a buzzer, handles clock-in/clock-out, and sends scans over Wi-Fi to an n8n workflow that logs them and emails alerts.
+
+## 🤖 Prototypes Built with AI App Builders
+
+Ideas I designed and shaped by prompting tools like Base44 and Lovable (not deployed on GitHub):
+
+- 🆘 **PanicPatch**: personal safety platform with a wearable badge, mobile app and live command center
+- 🛡️ **DeepGuard / Veritas AI**: media authentication system that detects deepfakes and triggers automated alerts
+- ✅ **TriadFlow**: three-pillar productivity tracker
+- 📈 **StockSense AI**: plain-English guide to Indian stocks, [live prototype](https://smart-alpha-guide.lovable.app)
+
+## 🏆 Achievements
+
+- 🥇 Semi-Finalist, **ET-AI Hackathon 2026** (StockSense AI)
+- 🏅 **SIH Internal Hackathon** finalist
+- 🎯 Participated in OpenAI Academy x NxtWave Buildathon (PanicPatch)
+- 🎤 Pitched AquaAyur at **Makers Conclave 2026**, Hyderabad
+- 🧪 Participated in Base 44 Hackathon, VibeState '25, EY Techathon 6.0 and Buildathon X NIAT
+- ✅ Cleared the first round of Daksh Hackathon (GL Bajaj Institute)
+
+## 🌟 Leadership & Activities
+
+- 👩‍💼 **Head of Operations**, Gen AI Club, NIAT Pune (2025-2026)
+- 🎉 Organised Meme Mania and a club hackathon
+- 🔧 Volunteer for IoT workshops since 2025
+- 🤝 Supported planning and execution of student events
+
+## 📬 Let's Connect
+
+- 💼 LinkedIn: [b-sahasra](https://www.linkedin.com/in/b-sahasra-132198373/)
+- 🐙 GitHub: [@sahasrab1407](https://github.com/sahasrab1407)
+- 📧 Email: sahasrab1407@gmail.com
+
+---
+
+⭐ Always learning, always building!
